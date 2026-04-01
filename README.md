@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dikeaatman@gmail.com**
 
-- ⚡ Fun fact **I think it would be fun connecting with new ppl**
+- ⚡ Fun fact **I think it would be fun to learn new things by reverse engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
